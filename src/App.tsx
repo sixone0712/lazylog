@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import { LazyLog, ScrollFollow } from "react-lazylog";
 
 function App() {
